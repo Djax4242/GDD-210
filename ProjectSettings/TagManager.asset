@@ -6,6 +6,8 @@ TagManager:
   tags:
   - HoldPoint
   - ProjectileContainer
+  - Boomerang
+  - BodyParts
   layers:
   - Default
   - TransparentFX
