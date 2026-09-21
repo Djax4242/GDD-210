@@ -1281,7 +1281,7 @@ MonoBehaviour:
       Enabled: 1
       Input:
         InputAction: {fileID: -7991970930921310032, guid: 38f0504a370a1a04fadaefc0ae85a145, type: 3}
-        Gain: 10
+        Gain: 13
         CancelDeltaTime: 0
       InputValue: 0
       Driver:
@@ -1292,7 +1292,7 @@ MonoBehaviour:
       Enabled: 1
       Input:
         InputAction: {fileID: -7991970930921310032, guid: 38f0504a370a1a04fadaefc0ae85a145, type: 3}
-        Gain: -10
+        Gain: -13
         CancelDeltaTime: 0
       InputValue: 0
       Driver:
