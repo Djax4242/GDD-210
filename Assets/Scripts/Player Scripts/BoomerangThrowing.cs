@@ -35,7 +35,7 @@ public class BoomerangThrowing : MonoBehaviour
     {
         if (isBoomerangOut) return;
         
-        if (playerInput.GetThrowInput())
+        if (playerInput.GetInteractInput())
         {
             splittingRang.transform.SetParent(boomerangContainer, true);
             Rigidbody splittingRangRb = splittingRang.GetComponent<Rigidbody>();
